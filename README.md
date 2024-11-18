@@ -14,5 +14,5 @@ in build and/or deplyment pipelines without modification.
 * Download an Apicize [app installation](https://github.com/apicize/app/releases/latest) for Windows, MacOS or Linux (.deb/.rpm)
 * Run Apicize, and play with default demo workbook
 * Submit bugs, feature requests, etc. to [GitHub](https://github.com/apicize/app/issues)
-* Review the [introductory tutorial](https://apcize.com/tutorial.html)
+* Review the [introductory tutorial](https://apicize.com/tutorial.html)
 * Optionally, download Linux builds (.deb/.rpm) of a [CLI Apicize runner](https://github.com/apicize/cli/releases/latest)
